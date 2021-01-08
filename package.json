@@ -4,7 +4,7 @@
   "version": "4.3.0",
   "author": "Peter <peter@bitcoin.com> and Gabriel Cardona <gabriel@bitcoin.com>",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-styled-components": "^1.10.0",
     "badger-components-react": "^0.3.0",
     "bitcoincom-storybook": "git+ssh://git@github.com/bitcoin-portal/bitcoincom-storybook.git",
