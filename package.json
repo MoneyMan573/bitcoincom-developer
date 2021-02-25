@@ -9,7 +9,7 @@
     "badger-components-react": "^0.3.0",
     "bitcoincom-storybook": "git+ssh://git@github.com/bitcoin-portal/bitcoincom-storybook.git",
     "bitcoincom-universal": "git+ssh://git@github.com/bitcoin-portal/bitcoincom-universal.git",
-    "gatsby": "^2.1.18",
+    "gatsby": "^2.32.8",
     "gatsby-image": "^2.0.30",
     "gatsby-plugin-flow": "^1.0.2",
     "gatsby-plugin-google-tagmanager": "^2.0.9",
